@@ -116,7 +116,7 @@
 }`
 24. Click Next
 25. Click Next
-26. Name this policy **Harness AWS Connector** and click **Create Policy**
+26. Name this policy **HarnessAWSConnector** and click **Create Policy**
 27. Navigate back to **Roles** and search for the **ECSDelegate** Role
 28. Attach the recently created "Harness AWS Connector" Policy to the **ECSDelegate** Role
 ​
